@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SpringBookGraphQLApp",
+      "request": "launch",
+      "mainClass": "com.san.SpringBookGraphQLApp",
+      "projectName": "graphQL-spring-boot"
+    }
+  ]
+}
